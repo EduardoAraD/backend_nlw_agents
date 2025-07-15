@@ -6,7 +6,7 @@ API desenvolvida durante o **Next Level Week (NLW) - Agents** da Rocketseat, res
 
 - CRUD de agentes
 - Endpoints RESTful claros e objetivos
-- Conexão com banco de dados via Prisma ORM
+- Conexão com banco de dados via Drizzle ORM
 - Validação de dados de entrada
 - CORS configurado para integração com o frontend
 
